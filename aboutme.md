@@ -4,5 +4,5 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-<span class="fa fa-graduation-cap about-icon"></span>
+<span class="fa fa-graduation-cap"></span>
 
