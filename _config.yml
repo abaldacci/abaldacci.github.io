@@ -23,6 +23,7 @@ navbar-links:
   Home: "https://abaldacci.github.io"
   Projects: "projects"
   Publications: "publications"
+  Blog: "blog"
   About Me: "aboutme"
   Contact: "contact"
 
