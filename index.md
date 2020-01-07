@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 ## News
-- [2020-01-07] Started my new personal website and [blog](https://abaldacci.github.io/2020-01-07-first-post/) 
+- [2020-01-07] Started my new personal [website](https://abaldacci.github.io) and [blog](https://abaldacci.github.io/2020-01-07-first-post/) 
  
 
 <p>
