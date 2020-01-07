@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 ## News
-- [07/01/2020] Finally, I found some time and good website theme (for jekyll) to start my personal website and blog. I'll share some of my works and study notes. Hope you'll enjoy it.
+- [2020-01-07] Started my new personal website and blog 
  
 
 <p>
