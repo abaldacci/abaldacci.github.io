@@ -11,13 +11,13 @@ Baldacci, A., Avvenuti, M., Ganovelli, F., & Nannini, A. (2017). Novel Methods a
 
 ## 2016
 
-<img src="../img/conference-short-paper.png" height="20px"> 
+<img src="../img/journal-article.png" height="20px"> 
 Baldacci, A., Bernabei, D., Corsini, M., Ganovelli, F., & Scopigno, R. (2016). 3D reconstruction for featureless scenes with curvature hints. The Visual Computer, 32(12), 1605-1620.
 
-<img src="../img/conference-paper.png" height="20px">
+<img src="../img/journal-article.png" height="20px">
 Baldacci, A., Kamenický, R., Riečický, A., Cignoni, P., Ďurikovič, R., Scopigno, R., & Madaras, M. (2016). GPU-based approaches for shape diameter function computation and its applications focused on skeleton extraction. Computers & Graphics, 59, 151-159.
 
-<img src="../img/conference-paper.png" height="20px">
+<img src="../img/journal-article.png" height="20px">
 Baldacci, A., Ganovelli, F., Corsini, M., & Scopigno, R. (2016). Presentation of 3D Scenes Through Video Example. IEEE transactions on visualization and computer graphics, 23(9), 2096-2107.
 
 <img src="../img/conference-paper.png" height="20px">
