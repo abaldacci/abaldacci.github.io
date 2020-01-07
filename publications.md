@@ -5,20 +5,26 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Afxi0cYAAAAJ&hl=it&oi=ao).
 
-## 2020
+## 2017
+
+Baldacci, A., Avvenuti, M., Ganovelli, F., & Nannini, A. (2017). Novel Methods and Algorithms for Presenting 3D Scenes, Doctoral Thesis
+
+## 2016
 
 <img src="../img/conference-short-paper.png" height="20px"> 
-Nirmal Roy, Felipe Moraes and Claudia Hauff. *Exploring Users' Learning Gains within Search Sessions*, accepted at CHIIR 2020.
+Baldacci, A., Bernabei, D., Corsini, M., Ganovelli, F., & Scopigno, R. (2016). 3D reconstruction for featureless scenes with curvature hints. The Visual Computer, 32(12), 1605-1620.
 
 <img src="../img/conference-paper.png" height="20px">
-Gustavo Penha and Claudia Hauff. *Curriculum Learning Strategies for IR: An Empirical Study on Conversation Response Ranking*, accepted at ECIR 2020.
+Baldacci, A., Kamenický, R., Riečický, A., Cignoni, P., Ďurikovič, R., Scopigno, R., & Madaras, M. (2016). GPU-based approaches for shape diameter function computation and its applications focused on skeleton extraction. Computers & Graphics, 59, 151-159.
 
 <img src="../img/conference-paper.png" height="20px">
-Arthur Câmara and Claudia Hauff. *Diagnosing BERT with Retrieval Heuristics*, accepted at ECIR 2020.
+Baldacci, A., Ganovelli, F., Corsini, M., & Scopigno, R. (2016). Presentation of 3D Scenes Through Video Example. IEEE transactions on visualization and computer graphics, 23(9), 2096-2107.
 
 <img src="../img/conference-paper.png" height="20px">
-Manuel Valle Torre, Esther Tan and Claudia Hauff. *edX Log Data Analysis Made Easy*, accepted at the 10th International Conference on Learning Analytics and Knowledge (LAK20). [[PDF Preprint&#8594;]](../documents/publications/LAK2020-Torre.pdf) [[ELAT demo&#8594;]](https://mvallet91.github.io/ELAT-Workbench/)
+Madaras, M., Kamenický, R., Riečický, A., Baldacci, A., Cignoni, P., Ďurikovič, R., & Scopigno, R. (2016, April). Fast parallel computation of shape diameter function. In Proceedings of the 32nd Spring Conference on Computer Graphics (pp. 5-5). ACM.
 
-## 2019 
 
-Gustavo Penha, Alexandru Balan and Claudia Hauff, *Introducing MANtIS: a novel Multi-Domain Information Seeking Dialogues Dataset*, 2019. [[arXiv Preprint&#8594;]](https://arxiv.org/abs/1912.04639) [[Dataset&#8594;]](https://guzpenha.github.io/MANtIS/)
+## 2014 
+
+<img src="../img/conference-paper.png" height="20px">
+Baldacci, A., Ganovelli, F., Corsini, M., & Scopigno, R. (2014). Stereo-browsing from calibrated cameras. In STAG: Smart Tools and Apps fro Graphics (pp. 53-62). Andrea Giachetti.
