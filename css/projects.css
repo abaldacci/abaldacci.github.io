@@ -3,10 +3,12 @@
   text-transform: uppercase;
   padding: 0px;
   font-size: 16px;
+  text-align:left;
 }
 
 .prj_desc {
   padding: 0px;
   font-size: 14px;
   line-height: 1.5em;
+  text-align:left;
 }
