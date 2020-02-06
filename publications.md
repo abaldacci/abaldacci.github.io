@@ -3,7 +3,9 @@ layout: page
 title: Publications
 ---
 
-I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Afxi0cYAAAAJ&hl=it&oi=ao).
+My [Google Scholar](https://scholar.google.com/citations?user=Afxi0cYAAAAJ&hl=it&oi=ao) profile.
+
+I also often serve as a reviewer for IEEE Transaction on Multimedia.
 
 ## 2017
 
