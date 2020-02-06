@@ -5,7 +5,7 @@ title: Publications
 
 See also my [Google Scholar](https://scholar.google.com/citations?user=Afxi0cYAAAAJ&hl=it&oi=ao) profile.
 
-I often serve as a reviewer for IEEE Transaction on Multimedia.
+I serve as a reviewer for IEEE Transaction on Multimedia.
 
 ## 2017
 
