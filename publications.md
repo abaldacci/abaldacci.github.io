@@ -3,9 +3,9 @@ layout: page
 title: Publications
 ---
 
-My [Google Scholar](https://scholar.google.com/citations?user=Afxi0cYAAAAJ&hl=it&oi=ao) profile.
+See also my [Google Scholar](https://scholar.google.com/citations?user=Afxi0cYAAAAJ&hl=it&oi=ao) profile.
 
-I also often serve as a reviewer for IEEE Transaction on Multimedia.
+I often serve as a reviewer for IEEE Transaction on Multimedia.
 
 ## 2017
 
