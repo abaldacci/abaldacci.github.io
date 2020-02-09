@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computer Vision Engineer
-subtitle: AI Solutions
+subtitle: CV&AI Solutions
 use-site-title: true
 ---
 
