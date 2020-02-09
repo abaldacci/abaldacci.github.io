@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Computer Vision Research Engineer
-subtitle: Transform And Lighting S.r.l.
+title: Computer Vision Engineer
+subtitle: AI Solutions
 use-site-title: true
 ---
 
